@@ -82,7 +82,9 @@ A desktop-assistant project focused on interpreting natural-language voice comma
 - 🧠 Command interpretation and action planning.
 - 🖥️ Desktop automation and exploration of on-screen text recognition.
 
-[Explore my GitHub repositories](https://github.com/Anshul-sys32/Voice-Controlled-System)
+<a href="https://github.com/Anshul-sys32/Voice-Controlled-System">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Chat App repository" />
+</a>
 
 ### 🎓 University ERP System
 
@@ -94,7 +96,9 @@ A university-focused web application bringing together a React frontend, a Node.
 - 🗄️ Database-backed application workflows.
 - 🌐 Modern web development technologies.
 
-[Explore my GitHub repositories](https://github.com/Anshul-sys32/UNIVERSITY_ERP_SYSTEM)
+<a href="https://github.com/Anshul-sys32/UNIVERSITY_ERP_SYSTEM">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Chat App repository" />
+</a>
 
 ---
 

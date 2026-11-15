@@ -68,7 +68,7 @@ A full-stack messaging application with real-time communication and database-bac
 - 📎 Image, video, audio, and PDF attachments.
 - 📱 Android packaging using Capacitor.
 
-<a href="https://github.com/Anshul-sys32/Chat-App">
+<a href="https://github.com/Anshul-sys32/chat-app">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Chat App repository" />
 </a>
 
@@ -105,15 +105,6 @@ A university-focused web application bringing together a React frontend, a Node.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/Anshul-sys32">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshul-sys32&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Anshul-sys32">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul-sys32&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-</a>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Anshul-sys32&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
